@@ -7,14 +7,9 @@ I have completed online courses in programming, pentesting, and cybersecurity th
 
 I'm looking for opportunities to collaborate on open-source projects and contribute to cybersecurity and pentesting initiatives. I'm also open to feedback on my code and learning from others in the community.
 
+[**Visit my web site**](https://ivaylo-vasilev.github.io) | [**Contact me**](https://forms.gle/XvMmXCG7pgeHQ6QB6)
+
 <!---
 ivaylo-vasilev/home is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-
-- 👋 Hi, I’m Ivaylo!
-- 👀 I love creating simple, cool, and useful programs.
-- 🌱 I’m currently working with Python.
-- 📫 You can connect with me through my Twitter and Facebook profiles.
-- 💞️ I’m looking to collaborate on interesting projects, share ideas, and of course learn new stuff.
-
 --->
